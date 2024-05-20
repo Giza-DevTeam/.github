@@ -23,7 +23,7 @@ Si estás interesado en colaborar en proyectos para ganar experiencia y dinero e
 ## Miembros del Equipo
 
 - Gabriel Ríos - CEO
-- Rolando Saucedo - CTO
+- Rolando Saucedo - COO
 
 ## Contacto
 
